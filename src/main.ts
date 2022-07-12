@@ -16,7 +16,7 @@ type State = {
     byType: string;
 }
 
-const state = {
+const state:State = {
     storeItems: {},
     byType: ''
 }

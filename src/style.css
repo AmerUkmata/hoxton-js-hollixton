@@ -18,12 +18,12 @@ body{
 header{
   grid-area: header;
   padding: 10px;
-  background-color: antiquewhite;
+  background-color: #f0f0f0;
 }
 
 .the-logo{
   text-decoration: none;
-  color: royalblue;
+  color: black;
   font-size: 1.5em;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
@@ -50,7 +50,7 @@ header nav{
 }
 .left-side-nav-links a{
   text-decoration: none;
-  color: blue;
+  color: black;
   font-size: 1.2rem;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
